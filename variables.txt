@@ -1,1 +1,2 @@
 Dillon
+slot1x,slot1y (this format up to the number 6 ex. slot6x or y)
